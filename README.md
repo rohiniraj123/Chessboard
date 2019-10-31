@@ -1,1 +1,3 @@
-# Chessboard
+# Chessboard 
+#black 
+#white
